@@ -1,0 +1,290 @@
+2021-09-21 16:23-05 INFO- * Restarting with stat
+2021-09-21 16:23-06 WARNING- * Debugger is active!
+2021-09-21 16:23-06 INFO- * Debugger PIN: 334-501-128
+2021-09-21 16:23-06 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-21 16:23-18 INFO-someone is accessing index.html!!!
+2021-09-21 16:23-18 INFO-127.0.0.1 - - [21/Sep/2021 16:23:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-21 16:23-18 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-21 16:23-19 INFO-127.0.0.1 - - [21/Sep/2021 16:23:19] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-21 16:23-22 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-21 16:23-22 INFO-127.0.0.1 - - [21/Sep/2021 16:23:22] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-21 16:24-05 INFO-Database connection established..!
+2021-09-21 16:24-06 INFO-data inserted
+2021-09-21 16:24-06 INFO-127.0.0.1 - - [21/Sep/2021 16:24:06] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-09-21 16:24-06 ERROR-Page not found: /favicon.ico
+2021-09-21 16:24-06 INFO-127.0.0.1 - - [21/Sep/2021 16:24:06] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-09-21 16:24-47 INFO- * Detected change in 'C:\\Users\\SRAVANTHI SHOROFF\\OneDrive\\Desktop\\ebike_sharing_log_error\\main.py', reloading
+2021-09-21 16:24-47 INFO- * Restarting with stat
+2021-09-21 16:24-48 WARNING- * Debugger is active!
+2021-09-21 16:24-48 INFO- * Debugger PIN: 334-501-128
+2021-09-21 16:24-48 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-21 16:25-00 INFO-someone is accessing index.html!!!
+2021-09-21 16:25-00 INFO-127.0.0.1 - - [21/Sep/2021 16:25:00] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-21 16:25-00 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-21 16:25-00 INFO-127.0.0.1 - - [21/Sep/2021 16:25:00] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-21 16:25-03 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-21 16:25-03 INFO-127.0.0.1 - - [21/Sep/2021 16:25:03] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-21 16:25-24 INFO-Database connection established..!
+2021-09-21 16:25-25 INFO-data inserted
+2021-09-21 16:25-25 INFO-successfully predicted
+2021-09-21 16:25-25 INFO-127.0.0.1 - - [21/Sep/2021 16:25:25] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-09-21 16:25-25 ERROR-Page not found: /favicon.ico
+2021-09-21 16:25-25 INFO-127.0.0.1 - - [21/Sep/2021 16:25:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-09-21 16:45-52 INFO- * Restarting with stat
+2021-09-21 16:45-53 WARNING- * Debugger is active!
+2021-09-21 16:45-53 INFO- * Debugger PIN: 334-501-128
+2021-09-21 16:45-53 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-21 16:46-16 INFO-someone is accessing index.html!!!
+2021-09-21 16:46-16 INFO-127.0.0.1 - - [21/Sep/2021 16:46:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-21 16:46-16 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-21 16:46-16 INFO-127.0.0.1 - - [21/Sep/2021 16:46:16] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-21 16:46-23 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-21 16:46-23 INFO-127.0.0.1 - - [21/Sep/2021 16:46:23] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:24-40 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:24-41 WARNING- * Debugger is active!
+2021-09-23 12:24-41 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:24-41 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:25-12 INFO-someone is accessing index.html!!!
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/css/style.css HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/js/main.js HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/img/2021-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:25-12 INFO-127.0.0.1 - - [23/Sep/2021 12:25:12] "[37mGET /static/styles/img/hero-bg.png HTTP/1.1[0m" 200 -
+2021-09-23 12:25-13 INFO-127.0.0.1 - - [23/Sep/2021 12:25:13] "[37mGET /static/styles/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d HTTP/1.1[0m" 200 -
+2021-09-23 12:25-13 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:25-13 INFO-127.0.0.1 - - [23/Sep/2021 12:25:13] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:25-25 INFO-127.0.0.1 - - [23/Sep/2021 12:25:25] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2021-09-23 12:25-25 ERROR-Page not found: /favicon.ico
+2021-09-23 12:25-25 INFO-127.0.0.1 - - [23/Sep/2021 12:25:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-09-23 12:30-16 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main_install.cpython-38.pyc', reloading
+2021-09-23 12:30-16 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\install.cpython-38.pyc', reloading
+2021-09-23 12:30-16 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\index.cpython-38.pyc', reloading
+2021-09-23 12:30-16 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\package_cache_data.cpython-38.pyc', reloading
+2021-09-23 12:30-16 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\__pycache__\\tarfile.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\path_actions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\envs_manager.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\portability.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\connectionpool.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\packages\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\packages\\__pycache__\\six.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\connection.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\connection.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\wait.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\contrib\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\contrib\\__pycache__\\_appengine_environ.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\request.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\brotli\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\brotli\\__pycache__\\brotli.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\response.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\ssl_.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\url.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\timeout.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\retry.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\_collections.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\request.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\filepost.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\fields.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\response.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\queue.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\poolmanager.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\universaldetector.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\charsetgroupprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\enums.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\charsetprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\escprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\codingstatemachine.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\escsm.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\latin1prober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\mbcsgroupprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\utf8prober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\mbcssm.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\sjisprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\mbcharsetprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\chardistribution.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euctwfreq.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euckrfreq.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\gb2312freq.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\big5freq.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\jisfreq.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\jpcntx.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\eucjpprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\gb2312prober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euckrprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\cp949prober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\big5prober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euctwprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\sbcsgroupprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\sbcharsetprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langcyrillicmodel.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langgreekmodel.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langbulgarianmodel.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langthaimodel.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langhebrewmodel.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\hebrewprober.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langturkishmodel.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\version.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\__version__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\certs.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\_internal_utils.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\http\\__pycache__\\cookies.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\cookies.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\structures.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\packages.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\models.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\hooks.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\auth.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\status_codes.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\api.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\sessions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\adapters.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\urllib3\\contrib\\__pycache__\\socks.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\__pycache__\\socks.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\__pycache__\\download.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\__pycache__\\session.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\ftp.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\__pycache__\\cgi.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\__pycache__\\ftplib.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\localfs.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\s3.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\pyami\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\pyami\\__pycache__\\config.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\vendored\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\vendored\\__pycache__\\six.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\storage_uri.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\s3\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\regioninfo.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\exception.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\xml\\sax\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\xml\\sax\\__pycache__\\xmlreader.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\xml\\sax\\__pycache__\\handler.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\xml\\sax\\__pycache__\\_exceptions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\handler.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\resultset.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\s3\\__pycache__\\user.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\endpoints.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\vendored\\regions\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\vendored\\regions\\__pycache__\\regions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\vendored\\regions\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\s3\\__pycache__\\deletemarker.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\plugin.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\logging\\__pycache__\\config.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\logging\\__pycache__\\handlers.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\__pycache__\\_strptime.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\__pycache__\\anaconda_client.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\subdir_data.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\solve.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\link.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\gateways\\__pycache__\\subprocess.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\resolve.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\logic.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\_logic.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\toposort.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\misc.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\plan.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\instructions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\api.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\std.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\_monitor.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\gui.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\_tqdm_pandas.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\cli.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\tqdm\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\tarball.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\archive_utils.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\interface.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_package_handling\\__pycache__\\conda_fmt.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_build\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-09-23 12:30-17 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\conda_build\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-09-23 12:30-19 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:30-20 WARNING- * Debugger is active!
+2021-09-23 12:30-20 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:30-20 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:30-21 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\site-packages\\win32comext\\shell\\__pycache__\\shellcon.cpython-38.pyc', reloading
+2021-09-23 12:30-21 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-09-23 12:30-21 INFO- * Detected change in 'C:\\Users\\Priyam\\anaconda3\\Lib\\__pycache__\\netrc.cpython-38.pyc', reloading
+2021-09-23 12:30-23 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:30-25 WARNING- * Debugger is active!
+2021-09-23 12:30-25 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:30-25 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:31-32 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:31-33 WARNING- * Debugger is active!
+2021-09-23 12:31-33 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:31-33 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:31-36 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:31-36 INFO-127.0.0.1 - - [23/Sep/2021 12:31:36] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:31-39 INFO-someone is accessing index.html!!!
+2021-09-23 12:31-39 INFO-127.0.0.1 - - [23/Sep/2021 12:31:39] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-23 12:31-39 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:31-39 INFO-127.0.0.1 - - [23/Sep/2021 12:31:39] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:36-07 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:36-09 WARNING- * Debugger is active!
+2021-09-23 12:36-09 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:36-09 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:36-24 INFO-someone is accessing index.html!!!
+2021-09-23 12:36-24 INFO-127.0.0.1 - - [23/Sep/2021 12:36:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-23 12:36-24 ERROR-Page not found: /favicon.ico
+2021-09-23 12:36-24 INFO-127.0.0.1 - - [23/Sep/2021 12:36:24] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-09-23 12:38-33 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:38-35 WARNING- * Debugger is active!
+2021-09-23 12:38-35 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:38-35 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:38-44 INFO-someone is accessing index.html!!!
+2021-09-23 12:38-44 INFO-127.0.0.1 - - [23/Sep/2021 12:38:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-23 12:38-44 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:38-44 INFO-127.0.0.1 - - [23/Sep/2021 12:38:44] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:45-51 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:45-53 WARNING- * Debugger is active!
+2021-09-23 12:45-53 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:45-53 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:45-54 INFO-someone is accessing index.html!!!
+2021-09-23 12:45-54 INFO-127.0.0.1 - - [23/Sep/2021 12:45:54] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-23 12:45-55 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:45-55 INFO-127.0.0.1 - - [23/Sep/2021 12:45:55] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:48-33 INFO- * Restarting with windowsapi reloader
+2021-09-23 12:48-35 WARNING- * Debugger is active!
+2021-09-23 12:48-35 INFO- * Debugger PIN: 339-849-723
+2021-09-23 12:48-35 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-23 12:48-41 INFO-someone is accessing index.html!!!
+2021-09-23 12:48-41 INFO-127.0.0.1 - - [23/Sep/2021 12:48:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-23 12:48-41 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:48-41 INFO-127.0.0.1 - - [23/Sep/2021 12:48:41] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:48-54 ERROR-Page not found: /n
+2021-09-23 12:48-54 INFO-127.0.0.1 - - [23/Sep/2021 12:48:54] "[37mGET /n HTTP/1.1[0m" 200 -
+2021-09-23 12:48-54 INFO-127.0.0.1 - - [23/Sep/2021 12:48:54] "[37mGET /static/styles/img/404.jpg HTTP/1.1[0m" 200 -
+2021-09-23 12:48-54 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:48-54 INFO-127.0.0.1 - - [23/Sep/2021 12:48:54] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
+2021-09-23 12:49-02 ERROR-Page not found: /m
+2021-09-23 12:49-02 INFO-127.0.0.1 - - [23/Sep/2021 12:49:02] "[37mGET /m HTTP/1.1[0m" 200 -
+2021-09-23 12:49-02 ERROR-Page not found: /static/styles/img/fWavy_Tech-14_Single-11-modified.png
+2021-09-23 12:49-02 INFO-127.0.0.1 - - [23/Sep/2021 12:49:02] "[37mGET /static/styles/img/fWavy_Tech-14_Single-11-modified.png HTTP/1.1[0m" 200 -
