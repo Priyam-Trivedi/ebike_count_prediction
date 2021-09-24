@@ -20,7 +20,6 @@ model
  - [Overview](https://github.com/matiassingers/awesome-readme)
  - [Dataset](https://github.com/matiassingers/awesome-readme)
  - [Installation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Database](https://github.com/matiassingers/awesome-readme)
  - [Deployment](https://github.com/matiassingers/awesome-readme)
  - [Documentation](https://github.com/matiassingers/awesome-readme)
  - [Directory Tree](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
@@ -55,11 +54,7 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
-## DataBase
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-  
 ## Deployement
 ### Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
@@ -90,14 +85,15 @@ Our next step would be to follow the instruction given on [AWS EC2 Instance Docu
 ├── template
 │   ├── index.html
 │   ├── result.html
-│   ├── error.html
 │   ├── 500.html
 │   ├── 404_error.html
 │   ├── 405_error.html
 ├── Procfile
+├── bike sharing.ipynb
+├── day.csv
+├── hour.csv
 ├── README.md
 ├── main.py
-├── flight_price.ipynb
 ├── DT_bike_sharing.pkl
 ├── requirements.txt
 
@@ -116,8 +112,11 @@ Our next step would be to follow the instruction given on [AWS EC2 Instance Docu
 
 
   
-## Technology Used 
+## Technologies Used
+
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" width=280>](https://gunicorn.org)[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHMPPej34qcJENKeCNdpqnZ5V9vLrmwVIvw&usqp=CAU" width=280>](https://gunicorn.org) [<img target="_blank" src="https://seeklogo.com/images/B/bootstrap-logo-69A1CCC10B-seeklogo.com.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ## Bug/Feature Request
