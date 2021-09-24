@@ -60,12 +60,20 @@ pip install -r requirements.txt
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
-## Deployement on Heroku
+## Deployement
+### Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
+### AWS(Amazon Web Services)
+Login or signup with free tier in order to create virtual amchine(EC2 instance) for free. 
+Note:- In free trier virtual Machine will only give free service for 720hr almost a month after that you will be charged , so use carefully. I usally stop instance when not need to avoid extra charge so it may happen that deployment link for AWS might not work  
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+Our next step would be to follow the instruction given on [AWS EC2 Instance Documentation](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/) to deploy a web app.
 
 
   
