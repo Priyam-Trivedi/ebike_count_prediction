@@ -60,13 +60,13 @@ pip install -r requirements.txt
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
-## Deployment
+## Deployement on Heroku
+Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-To deploy this project run
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
-```bash
-  npm run deploy
-```
+Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
 
   
 ## Directory Tree
