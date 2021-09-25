@@ -50,7 +50,7 @@ To Know more about data and its characterstics you can download dataset form htt
   
 ## Installation 🗄️
 
-The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/Priyam-Trivedi/ebike_count_prediction/tree/master) the repository:
+The Code is written in Python 3.8 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/Priyam-Trivedi/ebike_count_prediction/tree/master) the repository:
 ```bash
 pip install -r requirements.txt
 ```
@@ -65,8 +65,8 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ### AWS(Amazon Web Services)
 Login or signup with free tier in order to create virtual amchine(EC2 instance) for free. 
-Note:- In free trier virtual Machine will only give free service for 720hr almost a month after that you will be charged , so use carefully. I usally stop instance when not need to avoid extra charge so it may happen that deployment link for AWS might not work  
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+Note:- In free trier virtual Machine will only give free service for 720hr almost a month after that you will be charged , so use carefully. I usally stop instance when it is not needed to avoid extra charge. so it may happen that deployment link for AWS might not work  
+[![](https://i.imgur.com/r9pJG6J.png)](https://heroku.com)
 
 Our next step would be to follow the instruction given on [AWS EC2 Instance Documentation](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/) to deploy a web app.
 
@@ -116,7 +116,7 @@ Our next step would be to follow the instruction given on [AWS EC2 Instance Docu
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" width=280>](https://gunicorn.org)[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHMPPej34qcJENKeCNdpqnZ5V9vLrmwVIvw&usqp=CAU" width=280>](https://gunicorn.org) [<img target="_blank" src="https://seeklogo.com/images/B/bootstrap-logo-69A1CCC10B-seeklogo.com.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" width=280>](https://account.mongodb.com/account/login?n=%2Fv2%2F613a4456b613903d19ff6a0d&nextHash=%23metrics%2FreplicaSet%2F613a452891e112710853bd33%2Fexplorer%2Fbike%2Fuser_details%2Ffind)[<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHMPPej34qcJENKeCNdpqnZ5V9vLrmwVIvw&usqp=CAU" width=280>](https://aws.amazon.com/) [<img target="_blank" src="https://seeklogo.com/images/B/bootstrap-logo-69A1CCC10B-seeklogo.com.png" width=200>](https://getbootstrap.com/) 
 
 
 ## Bug/Feature Request
@@ -125,7 +125,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
   
 ## Authors
 
-- [Priyam Trivedi](https://www.github.com/octokatherine)
+- [Priyam Trivedi](https://github.com/Priyam-Trivedi)
 - [Sravanthi Shoroff](https://www.github.com/octokatherine)
 
   
