@@ -32,8 +32,8 @@ model
 
 
 ## Demo ✔️
+![bike rent](https://i.imgur.com/xYGFeks.gifhttps://i.imgur.com/xYGFeks.gif)
 
-Insert gif or link to demo
 
   
 ## Overview 📜
