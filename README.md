@@ -21,6 +21,7 @@ model
  - Dataset
  - Installation
  - Deployment
+ - Deployment
  - Documentation
  - Directory Tree
  - Technology Used
@@ -76,6 +77,10 @@ Note:- In free trier virtual Machine will only give free service for 720hr almos
 
 Our next step would be to follow the instruction given on [AWS EC2 Instance Documentation](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/) to deploy a web app.
 
+
+## DataBase
+
+![App Screenshot](https://i.imgur.com/JMI7vmQ.png)
 
   
 ## Directory Tree
