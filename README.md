@@ -16,7 +16,7 @@ model
 
 ## Table Content ✏️
 
- - [Demo](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Demo](https://github.com/Priyam-Trivedi/ebike_count_prediction/edit/master/README.md/#Demo)
  - [Overview](https://github.com/matiassingers/awesome-readme)
  - [Dataset](https://github.com/matiassingers/awesome-readme)
  - [Installation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
