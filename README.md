@@ -16,15 +16,16 @@ model
 
 ## Table Content ✏️
 
- - [Demo](https://github.com/Priyam-Trivedi/ebike_count_prediction/edit/master/README.md/#Demo)
- - [Overview](https://github.com/matiassingers/awesome-readme)
- - [Dataset](https://github.com/matiassingers/awesome-readme)
- - [Installation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Deployment](https://github.com/matiassingers/awesome-readme)
- - [Documentation](https://github.com/matiassingers/awesome-readme)
- - [Directory Tree](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Technology Used](https://github.com/matiassingers/awesome-readme)
- - [Bug/Feature Request](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - Demo
+ - Overview
+ - Dataset
+ - Installation
+ - Deployment
+ - Documentation
+ - Directory Tree
+ - Technology Used
+ - Bug/Feature Request
+ - Future scope of project
  
 
 
@@ -128,4 +129,8 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 - [Priyam Trivedi](https://github.com/Priyam-Trivedi)
 - [Sravanthi Shoroff](https://www.github.com/octokatherine)
 
-  
+## Future Scope
+
+* Use multiple Algorithms
+* Optimize Flask app.py
+* Front-End 
