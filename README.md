@@ -93,7 +93,7 @@ Our next step would be to follow the instruction given on [AWS EC2 Instance Docu
 │   ├── result.html
 │   ├── 500.html
 │   ├── 404_error.html
-│   ├── 405_error.html
+│   ├── error.html
 ├── Procfile
 ├── bike sharing.ipynb
 ├── day.csv
