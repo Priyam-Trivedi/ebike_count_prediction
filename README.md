@@ -129,10 +129,10 @@ Our next step would be to follow the instruction given on [AWS EC2 Instance Docu
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Priyam-Trivedi/ebike_count_prediction/issues) here by including your search query and the expected result
 
   
-## Authors
+## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
 
 - [Priyam Trivedi](https://github.com/Priyam-Trivedi)
-- [Sravanthi Shoroff](https://www.github.com/octokatherine)
+- [Sravanthi Shoroff](https://github.com/sravanthishoroff)
 
 ## Future Scope
 
