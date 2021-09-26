@@ -44,7 +44,7 @@ AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [opens on sunda
   
 ## Overview 📜
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+Development of a predictive model for predicting the bike sharing facility.The model will determine the count of the bikes according to the input given by the user in different climatic conditions.
 
   
 ## DataSet 📊
