@@ -46,7 +46,8 @@ AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [opens on sunda
 ## Overview 📜
 
 This is a Flask web app which predicts the count of the bikes available based on the user's input in which there are several categories to fill in like the season,windspeed,humidity,temperature,at what time user is searching and other things by which model will predict the number of bikes will be available for that particular input and conditions.Data which user enters will be stored in MongoDB for the future use,logging is done at every step.
-AIM:
+
+### AIM:
 Taking climatic conditions into consideration this model will predict the number of bikes can be used in the particular hour of a day.The bike company make sure that those number of bikes should be available at that time in order to get the optimum utilization of those bikes and earn maximum profits.
 
   
