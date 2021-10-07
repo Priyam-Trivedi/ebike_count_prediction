@@ -34,7 +34,7 @@ model
 
 
 ## Demo ✔️
-Heroku:- https://ebikecountpred.herokuapp.com/
+Heroku:- https://ebikecountprediction.herokuapp.com/
 
 
 AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [opens on sunday only]
