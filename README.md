@@ -36,7 +36,7 @@ model
 Heroku:- https://ebikecountprediction.herokuapp.com/
 
 
-AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [opens on sunday only]
+AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [Can access only on sunday]
 
 ![bike rent](https://i.imgur.com/xYGFeks.gifhttps://i.imgur.com/xYGFeks.gif)
 
