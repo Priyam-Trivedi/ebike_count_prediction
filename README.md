@@ -117,15 +117,15 @@ Our next step would be to follow the instruction given on [AWS EC2 Instance Docu
   
 ## Documentation
 
+[Architecture](https://drive.google.com/file/d/1sp_UYlxHm4Y7CjXxX3dMEm6_S1iZLqOU/view?usp=sharing)
+
 [Low Level Documentation](https://drive.google.com/file/d/11A5XLASni1cStVwmX1-vNNmEt4FjzM4E/view?usp=sharing)
 
 [High Level Documentation](https://drive.google.com/file/d/1GWD1QqbAzpTVpna5WQvPCOXvAwkDTY74/view?usp=sharing)
 
-[Architecture](https://drive.google.com/file/d/1sp_UYlxHm4Y7CjXxX3dMEm6_S1iZLqOU/view?usp=sharing)
-
 [Wired Framed Diagram](https://drive.google.com/file/d/10IJXCuvYf6klxRKUD4X6whd497E5UuYj/view?usp=sharing)
 
-[DPR(Detail Documentation](https://drive.google.com/file/d/1rHVn0pX20ktXifOkuCYvU3Z9G1dv7oVG/view?usp=sharing)
+[DPR(Detail Documentation Report)](https://drive.google.com/file/d/1rHVn0pX20ktXifOkuCYvU3Z9G1dv7oVG/view?usp=sharing)
 
 
 
