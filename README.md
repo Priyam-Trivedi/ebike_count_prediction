@@ -21,7 +21,6 @@ model
  - Dataset
  - Installation
  - Deployment
- - Deployment
  - Documentation
  - Directory Tree
  - Technology Used
