@@ -38,12 +38,13 @@ Heroku:- https://ebikecountprediction.herokuapp.com/
 
 AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [Can access only on sunday]
 
-![bike rent](https://i.imgur.com/xYGFeks.gifhttps://i.imgur.com/xYGFeks.gif)
+![bike rent](https://i.imgur.com/VRg18nK.gifv)
 
 
   
 ## Overview 📜
 
+https://i.imgur.com/xYGFeks.gifhttps://i.imgur.com/xYGFeks.gif
 This is a Flask web app which predicts the count of the bikes available based on the user's input in which there are several categories to fill in like the season,windspeed,humidity,temperature,at what time user is searching and other things by which model will predict the number of bikes will be available for that particular input and conditions.Data which user enters will be stored in MongoDB for the future use,logging is done at every step.
 
 ### AIM:
