@@ -41,6 +41,9 @@ AWS(Ec2):- https://ec2-54-84-85-146.compute-1.amazonaws.com:5000 [Can access onl
 ![bike rent](https://i.imgur.com/xYGFeks.gifhttps://i.imgur.com/xYGFeks.gif)
 
 
+[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)
+
+
 ![myfile](https://i.imgur.com/VRg18nK.gif)
   
 ## Overview 📜
